@@ -13,7 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->[contact.html](https://github.com/user-attachments/files/23164902/contact.html)
+[about.html](https://github.com/user-attachments/files/23164901/about.html)
+![photo3](https://github.com/user-attachments/assets/440c539e-c97c-4ef3-a496-b20dd9d73076)
+![photo2](https://github.com/user-attachments/assets/1d9bd548-2115-4a14-a439-6da4d259b4db)
+![photo1](https://github.com/user-attachments/assets/5c51aeb7-be3d-4e19-9bea-0d0571149f52)
+![banner](https://github.com/user-attachments/assets/1baad583-0f63-4431-8d0c-24bc248c1c4e)
+
 git add .
 git commit -m "Added homepage with photos"
 git push origin main
